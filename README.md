@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-👩‍💻Software Engineer | 🚀 Full Stack Developer | 👩‍🏫 Flutter Mobile Application | 🌐 Node Js Developer | 🤝 Proficiency in API Integration
+Software Engineer | Full Stack Developer | Flutter Mobile Application | Node Js Developer | Proficiency in API Integration
 
 👩‍💻[email](mailto:saadalikc02@gmail.com) | 🤝[LinkedIn](https://www.linkedin.com/in/saadalikc) 
 
