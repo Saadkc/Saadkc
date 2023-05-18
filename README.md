@@ -26,3 +26,12 @@ Software Engineer | Full Stack Developer | Flutter Mobile Application | Node Js 
 ![Socket.io](https://img.shields.io/badge/Socket.io-Junior-010101?logo=socket.io)
 ![Android Java Application](https://img.shields.io/badge/Android%20Application-Junior-3DDC84?logo=android)
 ![Content Management Systems (CMS)](https://img.shields.io/badge/CMS-Junior-5F9EA0?logo=cms)
+
+## 📊 Stats
+
+![Saad Ali GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Saadkc&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saadkc&layout=compact&theme=radical)
+
+![Saad Ali GitHub stats](https://github-readme-stats.vercel.app/api?username=Saadkc&show_icons=true&theme=radical)
+
+![Saad Ali GitHub trophies](https://github-profile-trophy.vercel.app/?username=Saadkc&theme=onedark)
