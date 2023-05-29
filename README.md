@@ -32,6 +32,6 @@ Software Engineer | Full Stack Developer | Flutter Mobile Application | Node Js 
 ![Saad Ali GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Saadkc&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saadkc&layout=compact&theme=radical)
 
-![Saad Ali GitHub stats](https://github-readme-stats.vercel.app/api?username=Saadkc&show_icons=true&theme=radical)
+<!-- ![Saad Ali GitHub stats](https://github-readme-stats.vercel.app/api?username=Saadkc&show_icons=true&theme=radical) -->
 
-![Saad Ali GitHub trophies](https://github-profile-trophy.vercel.app/?username=Saadkc&theme=onedark)
+
